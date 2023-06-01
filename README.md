@@ -1,3 +1,3 @@
 # bashlight
 Since bashupload is down i'll use github.
-21-5-2023: What a chaos...
+1-6-2023: I love GCP :)
